@@ -124,6 +124,7 @@ GameObject:
   - component: {fileID: 488642386}
   - component: {fileID: 488642385}
   - component: {fileID: 488642384}
+  - component: {fileID: 488642388}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -138,7 +139,7 @@ SphereCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 488642383}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -193,11 +194,24 @@ Transform:
   m_GameObject: {fileID: 488642383}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.7777867, y: 1.5633605, z: 0}
-  m_LocalScale: {x: 1.1589062, y: 1.041482, z: 35.424606}
+  m_LocalScale: {x: 2.5555406, y: 2.3814096, z: 2.8067167}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &488642388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 488642383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4213c95b443d248a67534bdf42fce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 20
+  rotationSpeed: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

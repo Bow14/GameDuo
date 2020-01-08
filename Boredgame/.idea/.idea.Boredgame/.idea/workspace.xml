@@ -13,11 +13,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MovingObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TranslateMove.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/MovingObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/TranslateMove.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +71,7 @@
       <updated>1576365991863</updated>
       <workItem from="1576366003474" duration="48000" />
       <workItem from="1576366109192" duration="708000" />
+      <workItem from="1578450087874" duration="649000" />
     </task>
     <servers />
   </component>
