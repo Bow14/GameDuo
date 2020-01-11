@@ -59,6 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Look.cs" />
     <Compile Include="Assets\MovingObject.cs" />
     <Compile Include="Assets\TranslateMove.cs" />
     <Reference Include="UnityEditor.StandardEvents">

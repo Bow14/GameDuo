@@ -6,6 +6,7 @@
     <e p="C:\Users\huffn\Documents\Git repo\GameDuo\Boredgame" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Look.cs" t="Include" />
         <e p="MovingObject.cs" t="Include" />
         <e p="TranslateMove.cs" t="Include" />
       </e>
