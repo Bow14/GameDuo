@@ -12,9 +12,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OnMouseOver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MovingObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Look.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TranslateMove.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +24,10 @@
         <option value="$PROJECT_DIR$/Assets/MovingObject.cs" />
         <option value="$PROJECT_DIR$/Assets/TranslateMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Look.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataScripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UITextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ZoomIn.cs" />
+        <option value="$PROJECT_DIR$/Assets/OnMouseOver.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +81,7 @@
       <workItem from="1576366109192" duration="708000" />
       <workItem from="1578450087874" duration="649000" />
       <workItem from="1578721710555" duration="309000" />
+      <workItem from="1579822041660" duration="3931000" />
     </task>
     <servers />
   </component>
