@@ -5,11 +5,12 @@ using UnityEngine;
 public class Look : MonoBehaviour
 {
 
+	public GameObject player;
 	public Transform target;
 	
 	// Update is called once per frame
 	void Update () 
 	{
-	transform.LookAt(target);	
+	transform.LookAt(target);
 	}
 }
