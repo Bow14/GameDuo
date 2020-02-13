@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/OnMouseOver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MovingObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -29,11 +30,12 @@
         <option value="$PROJECT_DIR$/Assets/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/UITextController.cs" />
         <option value="$PROJECT_DIR$/Assets/ZoomIn.cs" />
-        <option value="$PROJECT_DIR$/Assets/OnMouseOver.cs" />
         <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Look.cs" />
-        <option value="$PROJECT_DIR$/Assets/TranslateMove.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/TranslateMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/OnMouseOver.cs" />
+        <option value="$PROJECT_DIR$/Assets/PauseMenu.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +92,7 @@
       <workItem from="1579822041660" duration="3931000" />
       <workItem from="1581375156358" duration="966000" />
       <workItem from="1581468440119" duration="2500000" />
+      <workItem from="1581556252262" duration="4378000" />
     </task>
     <servers />
   </component>

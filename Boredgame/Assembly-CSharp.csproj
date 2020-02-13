@@ -64,6 +64,7 @@
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\MovingObject.cs" />
     <Compile Include="Assets\OnMouseOver.cs" />
+    <Compile Include="Assets\PauseMenu.cs" />
     <Compile Include="Assets\PlayerMove.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
