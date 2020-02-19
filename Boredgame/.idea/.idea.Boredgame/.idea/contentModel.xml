@@ -10,6 +10,7 @@
         <e p="BattleSystem.cs" t="Include" />
         <e p="CameraController.cs" t="Include" />
         <e p="CameraToggle.cs" t="Include" />
+        <e p="CharacterSelection.cs" t="Include" />
         <e p="DataScripts" t="Include">
           <e p="FloatData.cs" t="Include" />
         </e>

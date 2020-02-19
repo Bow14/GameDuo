@@ -63,6 +63,7 @@
     <Compile Include="Assets\BattleSystem.cs" />
     <Compile Include="Assets\CameraController.cs" />
     <Compile Include="Assets\CameraToggle.cs" />
+    <Compile Include="Assets\CharacterSelection.cs" />
     <Compile Include="Assets\DataScripts\FloatData.cs" />
     <Compile Include="Assets\Look.cs" />
     <Compile Include="Assets\MainMenu.cs" />
